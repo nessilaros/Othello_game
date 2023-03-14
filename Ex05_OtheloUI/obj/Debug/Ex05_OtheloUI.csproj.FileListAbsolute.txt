@@ -1,0 +1,13 @@
+C:\Users\Nessi\Desktop\לימודים\שנה ב\סמסטר ב\סי שארפ\הגשה 5\B19 Ex05 SapirNahmany 204341150 NessiLaros 308106921\Ex05_OtheloUI\obj\Debug\Ex05_OtheloUI.csprojAssemblyReference.cache
+C:\Users\Nessi\Desktop\לימודים\שנה ב\סמסטר ב\סי שארפ\הגשה 5\B19 Ex05 SapirNahmany 204341150 NessiLaros 308106921\Ex05_OtheloUI\obj\Debug\Ex05_OtheloUI.GamePlayForm.resources
+C:\Users\Nessi\Desktop\לימודים\שנה ב\סמסטר ב\סי שארפ\הגשה 5\B19 Ex05 SapirNahmany 204341150 NessiLaros 308106921\Ex05_OtheloUI\obj\Debug\Ex05_OtheloUI.SettingsForm.resources
+C:\Users\Nessi\Desktop\לימודים\שנה ב\סמסטר ב\סי שארפ\הגשה 5\B19 Ex05 SapirNahmany 204341150 NessiLaros 308106921\Ex05_OtheloUI\obj\Debug\Ex05_OtheloUI.Properties.Resources.resources
+C:\Users\Nessi\Desktop\לימודים\שנה ב\סמסטר ב\סי שארפ\הגשה 5\B19 Ex05 SapirNahmany 204341150 NessiLaros 308106921\Ex05_OtheloUI\obj\Debug\Ex05_OtheloUI.csproj.GenerateResource.cache
+C:\Users\Nessi\Desktop\לימודים\שנה ב\סמסטר ב\סי שארפ\הגשה 5\B19 Ex05 SapirNahmany 204341150 NessiLaros 308106921\Ex05_OtheloUI\obj\Debug\Ex05_OtheloUI.csproj.CoreCompileInputs.cache
+C:\Users\Nessi\Desktop\לימודים\שנה ב\סמסטר ב\סי שארפ\הגשה 5\B19 Ex05 SapirNahmany 204341150 NessiLaros 308106921\Ex05_OtheloUI\bin\Debug\Ex05_OtheloUI.exe
+C:\Users\Nessi\Desktop\לימודים\שנה ב\סמסטר ב\סי שארפ\הגשה 5\B19 Ex05 SapirNahmany 204341150 NessiLaros 308106921\Ex05_OtheloUI\bin\Debug\Ex05_OtheloUI.pdb
+C:\Users\Nessi\Desktop\לימודים\שנה ב\סמסטר ב\סי שארפ\הגשה 5\B19 Ex05 SapirNahmany 204341150 NessiLaros 308106921\Ex05_OtheloUI\bin\Debug\Ex05_OtheloLogic.dll
+C:\Users\Nessi\Desktop\לימודים\שנה ב\סמסטר ב\סי שארפ\הגשה 5\B19 Ex05 SapirNahmany 204341150 NessiLaros 308106921\Ex05_OtheloUI\bin\Debug\Ex05_OtheloLogic.pdb
+C:\Users\Nessi\Desktop\לימודים\שנה ב\סמסטר ב\סי שארפ\הגשה 5\B19 Ex05 SapirNahmany 204341150 NessiLaros 308106921\Ex05_OtheloUI\obj\Debug\Ex05_OtheloUI.csproj.CopyComplete
+C:\Users\Nessi\Desktop\לימודים\שנה ב\סמסטר ב\סי שארפ\הגשה 5\B19 Ex05 SapirNahmany 204341150 NessiLaros 308106921\Ex05_OtheloUI\obj\Debug\Ex05_OtheloUI.exe
+C:\Users\Nessi\Desktop\לימודים\שנה ב\סמסטר ב\סי שארפ\הגשה 5\B19 Ex05 SapirNahmany 204341150 NessiLaros 308106921\Ex05_OtheloUI\obj\Debug\Ex05_OtheloUI.pdb

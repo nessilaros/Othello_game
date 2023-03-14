@@ -1,0 +1,6 @@
+C:\Users\Nessi\Desktop\לימודים\שנה ב\סמסטר ב\סי שארפ\הגשה 5\B19 Ex05 SapirNahmany 204341150 NessiLaros 308106921\Ex05_OtheloLogic\bin\Debug\Ex05_OtheloLogic.dll
+C:\Users\Nessi\Desktop\לימודים\שנה ב\סמסטר ב\סי שארפ\הגשה 5\B19 Ex05 SapirNahmany 204341150 NessiLaros 308106921\Ex05_OtheloLogic\bin\Debug\Ex05_OtheloLogic.pdb
+C:\Users\Nessi\Desktop\לימודים\שנה ב\סמסטר ב\סי שארפ\הגשה 5\B19 Ex05 SapirNahmany 204341150 NessiLaros 308106921\Ex05_OtheloLogic\obj\Debug\Ex05_OtheloLogic.csprojAssemblyReference.cache
+C:\Users\Nessi\Desktop\לימודים\שנה ב\סמסטר ב\סי שארפ\הגשה 5\B19 Ex05 SapirNahmany 204341150 NessiLaros 308106921\Ex05_OtheloLogic\obj\Debug\Ex05_OtheloLogic.csproj.CoreCompileInputs.cache
+C:\Users\Nessi\Desktop\לימודים\שנה ב\סמסטר ב\סי שארפ\הגשה 5\B19 Ex05 SapirNahmany 204341150 NessiLaros 308106921\Ex05_OtheloLogic\obj\Debug\Ex05_OtheloLogic.dll
+C:\Users\Nessi\Desktop\לימודים\שנה ב\סמסטר ב\סי שארפ\הגשה 5\B19 Ex05 SapirNahmany 204341150 NessiLaros 308106921\Ex05_OtheloLogic\obj\Debug\Ex05_OtheloLogic.pdb
